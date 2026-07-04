@@ -1,9 +1,9 @@
-# OLA-RIDE-ANALYSIS-POWER-BI-PROJECT
+# OLA-RIDE-ANALYSIS-SQL-POWER-BI-PROJECT
 # 🚖 Ola Ride Sales Analysis Dashboard
 
 ## 📌 Project Overview
 
-The **Ola Ride Sales Analysis Dashboard** is an end-to-end Business Intelligence project developed to analyze ride booking trends, customer behavior, revenue generation, and operational performance using Power BI. The dashboard transforms raw ride booking data into meaningful business insights through interactive visualizations, KPI tracking, and data-driven storytelling.
+The **Ola Ride Sales Analysis Dashboard** is an end-to-end Business Intelligence project developed to analyze ride booking trends, customer behavior, revenue generation, and operational performance using Power BI and SQL. The dashboard transforms raw ride booking data into meaningful business insights through interactive visualizations, KPI tracking, and data-driven storytelling.
 
 The objective of this project is to demonstrate how data analytics can help transportation companies monitor business performance, identify customer trends, optimize operations, and support strategic decision-making.
 
@@ -98,6 +98,7 @@ Some of the key business questions answered include:
 * Analytical Thinking
 * Business Analysis
 * Data Storytelling
+* Sql 
 
 ---
 
