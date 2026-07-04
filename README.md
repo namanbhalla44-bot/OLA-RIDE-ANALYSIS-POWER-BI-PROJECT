@@ -102,7 +102,9 @@ Some of the key business questions answered include:
 ---
 
 ## Dashboard Preview
-ola ride analysis dashboard.png
+## Dashboard Preview
+
+![Ola Ride Sales Dashboard](./ola%20ride%20analysis%20dashboard.png)
 
 ---
 
